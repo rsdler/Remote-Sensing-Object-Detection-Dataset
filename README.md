@@ -49,4 +49,10 @@
 * Paper: https://www.sciencedirect.com/science/article/pii/S0924271614002524
 * Download: https://pan.baidu.com/s/1Mw2F7TsR2XdnM8eJZXCpQw Password: rsdl 
 
+### 7.VisDrone
+
+*  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/fd093210-1872-4d1a-93cd-4c27a8a8ca2c" style="width:30%;">
+*  Page: https://github.com/VisDrone/VisDrone-Dataset
+*  Download: https://github.com/VisDrone/VisDrone-Dataset
+*  Paper: https://ieeexplore.ieee.org/document/9573394
 
