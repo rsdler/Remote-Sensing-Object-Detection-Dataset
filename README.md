@@ -31,7 +31,7 @@
 * Paper:
   * https://arxiv.org/abs/1909.00133
   * https://arxiv.org/abs/2110.01931
-*  Thecategories of objects in DIOR-R include Airplane (APL)Airport (APO), Baseball Field (BF), Basketball Court (BC), Bridge (BR), Chimney (CH), Expressway Service Area (ESA), Expressway Toll Station (ETS), Dam (DAM), Golf Field (GF), Ground Track Field (GTF), Harbor (HA), Overpass (OP), Ship(SH), Stadium (STA), Storage Tank (STO), Tennis Court (TC),Train Station (TS), Vehicle (VE) and Windmill (WM). 
+*  Thec ategories of objects in DIOR-R include Airplane (APL)Airport (APO), Baseball Field (BF), Basketball Court (BC), Bridge (BR), Chimney (CH), Expressway Service Area (ESA), Expressway Toll Station (ETS), Dam (DAM), Golf Field (GF), Ground Track Field (GTF), Harbor (HA), Overpass (OP), Ship(SH), Stadium (STA), Storage Tank (STO), Tennis Court (TC),Train Station (TS), Vehicle (VE) and Windmill (WM). 
 
 ### 4. DroneVehicle (OBB)
 
