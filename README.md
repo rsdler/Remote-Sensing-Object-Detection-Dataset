@@ -3,7 +3,7 @@
 ## 遥感目标检测数据集
 
 
-### 1. DOTA
+### 1. DOTA (OBB+RBB)
 
 * <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/55e222fc-76c0-4cf5-a5c3-3879153aa80f" style="width:30%;">
 * Homepage: https://captain-whu.github.io/DOTA/index.html
@@ -13,14 +13,14 @@
   * https://openaccess.thecvf.com/content_cvpr_2018/html/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.html
   * https://ieeexplore.ieee.org/document/8953881
 
-### 2. FAIR1M
+### 2. FAIR1M (OBB+RBB)
 
 *  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/86f210d7-b854-44e4-801d-63d7ef59c32e" style="width:30%;">
 * Hompage: https://gaofen-challenge.com/benchmark
 * Download: https://gaofen-challenge.com/benchmark
 * Paper: https://www.sciencedirect.com/science/article/pii/S0924271621003269
 
-### 3. DIOR
+### 3. DIOR (OBB+RBB)
 
 *  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/b638a280-ee5c-4a71-82ec-5bf3ca2d50d8" style="width:30%;">
 * Download: https://pan.baidu.com/s/1oDRfDh-tZuNoBCFcRJ6GXQ password: rsdl
