@@ -23,7 +23,7 @@
 ### 3. DIOR (OBB+RBB)
 
 *  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/b638a280-ee5c-4a71-82ec-5bf3ca2d50d8" style="width:30%;">
-* Download: https://pan.baidu.com/s/1oDRfDh-tZuNoBCFcRJ6GXQ password: rsdl
+* Download: https://pan.baidu.com/s/1oDRfDh-tZuNoBCFcRJ6GXQ Extraction code: rsdl
 * Paper:
   * https://arxiv.org/abs/1909.00133
   * https://arxiv.org/abs/2110.01931
@@ -39,14 +39,14 @@
 
 *  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/3398ba0e-f5fd-4eac-905b-f05d04e37c02" style="width:30%;">
 * Page: https://levir.buaa.edu.cn/
-* Download : https://pan.baidu.com/s/1BD7A8LQwcUIY6wzI9_xe6w password: rsdl
+* Download : https://pan.baidu.com/s/1BD7A8LQwcUIY6wzI9_xe6w Extraction code: rsdl
 * Paper: [https://ieeexplore.ieee.org/abstract/document/9560031](https://ieeexplore.ieee.org/document/8106808)
 
 
 ### 6. NWPU VHR-10
 
 *  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/473c51c9-58b5-4d2e-9b2b-423b7b638698" style="width:30%;">
-* Download: https://pan.baidu.com/s/1Mw2F7TsR2XdnM8eJZXCpQw password: rsdl
+* Download: https://pan.baidu.com/s/1Mw2F7TsR2XdnM8eJZXCpQw Extraction code: rsdl
 * Paper: https://www.sciencedirect.com/science/article/pii/S0924271614002524
 
 ### 7. VisDrone
