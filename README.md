@@ -13,8 +13,14 @@
   * https://openaccess.thecvf.com/content_cvpr_2018/html/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.html
   * https://ieeexplore.ieee.org/document/8953881
 
+### 2. FAIR1M
 
-### 2. DIOR
+*  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/86f210d7-b854-44e4-801d-63d7ef59c32e" style="width:30%;">
+* Hompage: https://gaofen-challenge.com/benchmark
+* Download: https://gaofen-challenge.com/benchmark
+* Paper: https://www.sciencedirect.com/science/article/pii/S0924271621003269
+
+### 3. DIOR
 
 *  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/b638a280-ee5c-4a71-82ec-5bf3ca2d50d8" style="width:30%;">
 * Hompage: https://gaofen-challenge.com/benchmark
@@ -22,13 +28,6 @@
 * Paper:
   * https://arxiv.org/abs/1909.00133
   * https://arxiv.org/abs/2110.01931
-
-### 2. FAIR1M
-
-*  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/86f210d7-b854-44e4-801d-63d7ef59c32e" style="width:30%;">
-* Hompage: https://gaofen-challenge.com/benchmark
-* Download: https://gaofen-challenge.com/benchmark
-* Paper: https://www.sciencedirect.com/science/article/pii/S0924271621003269
 
 ### 4. DroneVehicle
 
