@@ -39,6 +39,7 @@
 * GitHub: https://github.com/VisDrone/DroneVehicle
 * Download: https://github.com/VisDrone/DroneVehicle
 * Paper: https://ieeexplore.ieee.org/abstract/document/9759286
+* Five vehicle categories in DroneVehicle: car, truck, bus, van, and freight car.
 
 ### 5. LEVIR
 
