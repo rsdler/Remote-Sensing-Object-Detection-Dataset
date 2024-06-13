@@ -28,7 +28,7 @@
   * https://arxiv.org/abs/1909.00133
   * https://arxiv.org/abs/2110.01931
 
-### 4. DroneVehicle
+### 4. DroneVehicle (RBB/OBB)
 
 *  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/bb8af099-710a-4480-873d-9e84c0eb47a1" style="width:30%;">
 * GitHub: https://github.com/VisDrone/DroneVehicle
