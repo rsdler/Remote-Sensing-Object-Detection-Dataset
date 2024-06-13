@@ -22,6 +22,7 @@
 * Hompage: https://gaofen-challenge.com/benchmark
 * Download: https://gaofen-challenge.com/benchmark
 * Paper: https://www.sciencedirect.com/science/article/pii/S0924271621003269
+* The object categories in the FAIR1M dataset: Boeing 737, Boeing 777, Boeing 747, Boeing 787, Airbus A320, Airbus A220, Airbus A330, Airbus A350, COMAC C919, COMAC ARJ21, other-airplane, passenger ship, motorboat, fishing boat, tugboat, engineering ship, liquid cargo ship, dry cargo ship, warship, other-ship, small car, bus, cargo truck, dump truck, van, trailer, tractor, truck tractor, excavator, other-vehicle, baseball field, basketball court, football field, tennis court, roundabout, intersection, and bridge.
 
 ### 3. DIOR (HBB+OBB)
 
@@ -30,6 +31,7 @@
 * Paper:
   * https://arxiv.org/abs/1909.00133
   * https://arxiv.org/abs/2110.01931
+*  Thecategories of objects in DIOR-R include Airplane (APL)Airport (APO), Baseball Field (BF), Basketball Court (BC), Bridge (BR), Chimney (CH), Expressway Service Area (ESA), Expressway Toll Station (ETS), Dam (DAM), Golf Field (GF), Ground Track Field (GTF), Harbor (HA), Overpass (OP), Ship(SH), Stadium (STA), Storage Tank (STO), Tennis Court (TC),Train Station (TS), Vehicle (VE) and Windmill (WM). 
 
 ### 4. DroneVehicle (OBB)
 
