@@ -16,12 +16,12 @@
 
 ### 2. DIOR
 
-*  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/86f210d7-b854-44e4-801d-63d7ef59c32e" style="width:30%;">
+*  <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/b638a280-ee5c-4a71-82ec-5bf3ca2d50d8" style="width:30%;">
 * Hompage: https://gaofen-challenge.com/benchmark
 * Download: https://pan.baidu.com/s/1oDRfDh-tZuNoBCFcRJ6GXQ password: rsdl
 * Paper:
   * https://arxiv.org/abs/1909.00133
-  * 
+  * https://arxiv.org/abs/2110.01931
 
 ### 2. FAIR1M
 
