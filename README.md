@@ -12,6 +12,9 @@
   * https://ieeexplore.ieee.org/abstract/document/9560031
   * https://openaccess.thecvf.com/content_cvpr_2018/html/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.html
   * https://ieeexplore.ieee.org/document/8953881
+* The object categories in DOTA-v1.0: plane, ship, storage tank, baseball diamond, tennis court, basketball court, ground track field, harbor, bridge, large vehicle, small vehicle, helicopter, roundabout, soccer ball field and swimming pool.
+* The object categories in DOTA-v1.5: plane, ship, storage tank, baseball diamond, tennis court, basketball court, ground track field, harbor, bridge, large vehicle, small vehicle, helicopter, roundabout, soccer ball field, swimming pool and container crane.
+* The object categories in DOTA-v2.0: plane, ship, storage tank, baseball diamond, tennis court, basketball court, ground track field, harbor, bridge, large vehicle, small vehicle, helicopter, roundabout, soccer ball field, swimming pool, container crane, airport and helipad.
 
 ### 2. FAIR1M (OBB)
 
