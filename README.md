@@ -5,7 +5,7 @@
 
 ### 1. DOTA
 
-* <img src="https://github.com/rsdler/Remote-Sensing-Dataset/assets/169664279/0dbab9d6-90d9-4400-b17e-43fb0b35d403" style="width:30%;">
+* <img src="https://github.com/rsdler/Remote-Sensing-Object-Detection-Dataset/assets/169664279/55e222fc-76c0-4cf5-a5c3-3879153aa80f" style="width:30%;">
 * Homepage: https://captain-whu.github.io/DOTA/index.html
 * Download: https://captain-whu.github.io/DOTA/dataset.html
 * Paper: 
