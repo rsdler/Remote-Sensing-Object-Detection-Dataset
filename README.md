@@ -62,3 +62,11 @@
 *  Download: https://github.com/VisDrone/VisDrone-Dataset
 *  Paper: https://ieeexplore.ieee.org/document/9573394
 
+### 8. SARDet-100K
+
+
+*  <img src="https://github.com/user-attachments/assets/832a7554-18af-4435-b5e7-60af8523cc90" style="width:30%;">
+*  Page: https://github.com/zcablii/SARDet_100K
+*  Download: https://github.com/zcablii/SARDet_100K
+*  Competition: https://bohrium.dp.tech/competitions/6816082019
+*  Paper: http://arxiv.org/abs/2403.06534
