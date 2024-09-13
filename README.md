@@ -78,4 +78,3 @@
 *  Page: https://yangxue0827.github.io/OHD-SJTU.html
 *  Download: https://yangxue0827.github.io/OHD-SJTU.html
 
-https://yangxue0827.github.io/OHD-SJTU.html
