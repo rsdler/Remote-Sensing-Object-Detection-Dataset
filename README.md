@@ -70,3 +70,12 @@
 *  Download: https://github.com/zcablii/SARDet_100K
 *  Competition: https://bohrium.dp.tech/competitions/6816082019
 *  Paper: http://arxiv.org/abs/2403.06534
+
+### 9. OHD-SJTU
+
+
+*  <img src="https://github.com/user-attachments/assets/9e7676c3-b402-4e3d-b7b5-062c0a5fc3f9" style="width:30%;">
+*  Page: https://yangxue0827.github.io/OHD-SJTU.html
+*  Download: https://yangxue0827.github.io/OHD-SJTU.html
+
+https://yangxue0827.github.io/OHD-SJTU.html
