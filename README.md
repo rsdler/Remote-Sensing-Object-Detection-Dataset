@@ -78,3 +78,8 @@
 *  Page: https://yangxue0827.github.io/OHD-SJTU.html
 *  Download: https://yangxue0827.github.io/OHD-SJTU.html
 
+### 9. HazyDet
+HazyDet: Open-source Benchmark for Drone-view Object Detection with Depth-cues in Hazy Scenes
+
+*  <img src="https://github.com/user-attachments/assets/3864c882-f5a2-4aec-9258-8ce02cb91f1b" style="width:30%;">
+*  Download: https://github.com/GrokCV/HazyDet
